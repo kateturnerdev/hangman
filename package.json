@@ -11,6 +11,7 @@
     "url": "git+https://github.com/kateturnerdev/hangman.git"
   },
   "dependencies": {
+    "node-emoji": "^1.10.0",
     "readline-sync": "^1.4.10"
   }
 }
